@@ -1,0 +1,11 @@
+{
+  "name": "xhipment-ops",
+  "version": "1.0.0",
+  "description": "Order Processing System to allow users to place orders, process them asynchronously, and send notifications upon completion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anup Narvekar",
+  "license": "ISC"
+}
