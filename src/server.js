@@ -1,5 +1,7 @@
 require("dotenv").config();
 const http = require("http");
+require('./config/db.js');
+const redisClient = require('./config/redis');
 const app = require("./app");
 
 const PORT = process.env.PORT || 3000;
