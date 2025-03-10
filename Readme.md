@@ -18,4 +18,4 @@ This project is a scalable, event-driven order processing system built with Node
 # Important‼️⚠️
 My SES account is currently in sandbox mode, which only allows sending emails to verified email addresses. Therefore, any email sent to an address that hasn't been verified in the AWS Console will be rejected by SES. To bypass this limitation, production access is required, which in turn requires domain verification; and since I do not own a domain, I cannot obtain production access at this time. Please provide your email address, during testing this and I will verify it temporarily at my end.
 
-And secondly, avoid load testing the APIs as the AWS account being used connected to my personal card and the APIs aren't being rate limited. 🥲
+And secondly, avoid load testing the APIs as the AWS account being used is connected to my personal card and the APIs aren't being rate limited. 🥲
