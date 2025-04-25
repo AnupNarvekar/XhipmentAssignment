@@ -1,13 +1,12 @@
 # Order Processing System ⚙️
+(Interview assignment by [https://www.xhipment.com/](url))
 
 
-## Overview 🫣
-
+## Overview
 This project is a scalable, event-driven order processing system built with Node.js, Express, MongoDB, Redis, and AWS (SQS & SES). It supports JWT-based authentication, order management with inventory validation, asynchronous processing, caching, and email notifications.
 
   
 ## Setup Instructions 📝
-  
 1. Clone [this](https://github.com/AnupNarvekar/XhipmentAssignment) repo locally and open the root project dir in a terminal
 2. Get [this](https://drive.google.com/drive/folders/1hBC7_fw7n7XK8aT7_qif6sX-Z_9PafLh?usp=drive_link) `.env` file and paste it in the root dir.
 3. Execute command `npm i` from the root dir in a terminal
