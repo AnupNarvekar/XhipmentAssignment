@@ -1,5 +1,5 @@
 # Order Processing System ⚙️
-(Interview assignment by [Xhipment](https://www.xhipment.com/))
+(Interview assignment for [Xhipment](https://www.xhipment.com/))
 
 
 ## Overview
